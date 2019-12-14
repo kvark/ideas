@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Theory of no Intelligence"
+title: "Theory of no Intelligence"
 ---
 
 What is intellect? We think we understand, but we can't express this systematically. We only gauge the presence of intellect by secondary properties, such as the ability to adapt to changing environments, the ability to solve problems, ability to reason beyond what is perceived. We also have a number of IQ tests that measure... something.

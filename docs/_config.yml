@@ -1,8 +1,15 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 title: kvark's ideas blog
 description: >-
   Trying to make sense of the world.
 
-baseurl: "/ideas"
-url: "https://kvark.github.io"
+baseurl: "/"
+url: "https://kvark.github.io/ideas"
+
+permalink: /:title
+
+author:
+  name: "kvark"
+  email: "kvark at fastmail com"
+  url: "https://kvark.github.io/ideas"
