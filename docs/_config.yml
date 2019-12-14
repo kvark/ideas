@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+title: kvark's ideas blog
+description: >-
+  Trying to make sense of the world.
+
+baseurl: "/ideas"
+url: "https://kvark.github.io"
