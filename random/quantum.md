@@ -16,3 +16,7 @@ Associated effects:
 Consider the distance between two cars moving along the same road to be a quantum state. A street light acts as an observation then:
   - either the leading car stops, thus waiting for the following car to catch up, and continue from the same state
   - or the leading car passes through the light, while the following one stops, thus cementing the separation between cars
+
+### Privacy budget in Web APIs
+
+With the [privacy budget](https://github.com/bslassey/privacy-budget), querying a web API for its capabilities (that affect privacy) is equivalent to quantum observation. The capabilities may be considered to not exist until discovered.
