@@ -20,3 +20,7 @@ Consider the distance between two cars moving along the same road to be a quantu
 ### Privacy budget in Web APIs
 
 With the [privacy budget](https://github.com/bslassey/privacy-budget), querying a web API for its capabilities (that affect privacy) is equivalent to quantum observation. The capabilities may be considered to not exist until discovered.
+
+### Meetings at work
+
+Heisenberg Uncertanity Principle applied to meetings. Either everyone knows what the meeting is about, but few people come on time, so nobody knows exactly *when* it will effectively start. Or the meeting is "Team Sync", nobody knows what it's about, but everybody shows up exactly on time.
